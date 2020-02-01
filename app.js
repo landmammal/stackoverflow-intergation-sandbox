@@ -1,0 +1,1 @@
+const mapAPIKey = CONFIG.mapKey;
